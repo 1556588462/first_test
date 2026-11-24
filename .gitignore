@@ -1,2 +1,5 @@
-.env #api
-node_modules/  #第三方库
+# api 密钥
+.env
+
+# 第三方库
+node_modules/
