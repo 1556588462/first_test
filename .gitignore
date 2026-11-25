@@ -3,3 +3,13 @@
 
 # 第三方库
 node_modules/
+
+# JetBrains / PyCharm
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
